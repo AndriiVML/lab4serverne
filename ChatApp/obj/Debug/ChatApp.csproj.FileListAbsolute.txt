@@ -1,0 +1,352 @@
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\ChatApp.dll.config
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\ChatApp.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\ChatApp.pdb
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\csc.exe
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\csc.exe.config
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\csc.rsp
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\csi.exe
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\csi.exe.config
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\csi.rsp
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.AppContext.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Console.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.IO.Compression.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.IO.FileSystem.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.IO.Pipes.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Security.AccessControl.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Security.Claims.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.ValueTuple.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Xml.XPath.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\vbc.exe
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\vbc.exe.config
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\vbc.rsp
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Antlr3.Runtime.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.Owin.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.Owin.Security.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Newtonsoft.Json.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Owin.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.Helpers.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.Mvc.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.Optimization.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.Razor.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.WebPages.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\WebGrease.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.Owin.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.Owin.Security.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.Helpers.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.Mvc.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.Optimization.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.Razor.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.WebPages.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Newtonsoft.Json.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Antlr3.Runtime.pdb
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CopyComplete
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+C:\inesteruk\lp\ServerWeb\ChatApp\ChatApp\bin\AjaxControlToolkit.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\ChatApp.dll.config
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\ChatApp.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\ChatApp.pdb
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\csc.exe
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\csc.exe.config
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\csc.rsp
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\csi.exe
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\csi.exe.config
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\csi.rsp
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.AppContext.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Console.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.IO.Compression.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.IO.FileSystem.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.IO.Pipes.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Security.AccessControl.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Security.Claims.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Security.Principal.Windows.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.ValueTuple.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Xml.XPath.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\vbc.exe
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\vbc.exe.config
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\vbc.rsp
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\AjaxControlToolkit.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Antlr3.Runtime.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.Owin.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.Owin.Security.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Newtonsoft.Json.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Owin.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.Helpers.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.Mvc.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.Optimization.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.Razor.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.WebPages.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\WebGrease.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.Owin.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.Owin.Security.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.Helpers.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.Mvc.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.Optimization.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.Razor.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.WebPages.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Newtonsoft.Json.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Antlr3.Runtime.pdb
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CopyComplete
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+E:\UniversityWindows\ServerProgramming\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\ChatApp.dll.config
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\ChatApp.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\ChatApp.pdb
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\csc.exe
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\csc.exe.config
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\csc.rsp
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\csi.exe
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\csi.exe.config
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\csi.rsp
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.AppContext.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Console.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.IO.Compression.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.IO.Pipes.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Security.Claims.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.ValueTuple.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Xml.XPath.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\vbc.exe
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\vbc.exe.config
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\vbc.rsp
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\AjaxControlToolkit.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Antlr3.Runtime.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.Owin.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.Owin.Security.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Newtonsoft.Json.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Owin.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.Helpers.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.Mvc.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.Optimization.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.Razor.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.WebPages.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\WebGrease.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.Owin.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.Owin.Security.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.Helpers.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.Mvc.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.Optimization.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.Razor.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.WebPages.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Newtonsoft.Json.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Antlr3.Runtime.pdb
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CopyComplete
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+C:\Study\Master\Серверне Web програмування\ChatApp\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\ChatApp.dll.config
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\ChatApp.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\ChatApp.pdb
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\csc.exe
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\csc.exe.config
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\csc.rsp
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\csi.exe
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\csi.exe.config
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\csi.rsp
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.AppContext.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Console.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.IO.Compression.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.IO.Pipes.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Security.Claims.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.ValueTuple.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Xml.XPath.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\vbc.exe
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\vbc.exe.config
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\vbc.rsp
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\AjaxControlToolkit.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Antlr3.Runtime.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.Owin.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.Owin.Security.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Newtonsoft.Json.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Owin.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.Helpers.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.Mvc.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.Optimization.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.Razor.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.WebPages.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\WebGrease.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.Owin.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.Owin.Security.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.Helpers.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.Mvc.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.Optimization.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.Razor.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.WebPages.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Newtonsoft.Json.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Antlr3.Runtime.pdb
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CopyComplete
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+D:\Andrii\Andrii DELL\F\Andrii\9 семестр\серверне\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
